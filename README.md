@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajaykg
-- 👀 I’m interested in creating better decentralized apps/services.
-- 🌱 I’m currently learning entrepreneurship, webassembly, flutter
+- 👀 I’m interested in creating better decentralized apps/services
+- 🌱 I’m currently learning entrepreneurship, webassembly, flutter, blockchain, zkp etc.
 - 💞️ I’m looking to collaborate on IPEF region technology ventures
 - 📫 How to reach me : linkedin.com/in/ajaygahlawat 
 
